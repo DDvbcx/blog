@@ -1,4 +1,8 @@
-site_name: My Docs
+site_name: Mario's Blog
 
 theme:
   name: material
+  palette:
+    primary: orange
+  font:
+    text: STSong
