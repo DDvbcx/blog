@@ -4,6 +4,7 @@
     mkdocs serve
 - vscode 代码编辑器 搞定
 - git 版本控制软件
+- markdown
 
 # Welcome to MkDocs
 
